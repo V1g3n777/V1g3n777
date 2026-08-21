@@ -37,7 +37,7 @@ Backend
 
 A modern web application built with React and JavaScript that works with external APIs to display movie-related data.
 
-Tech: React · JavaScript · REST API
+Tech: HTML · CSS · JavaScript(DOM) · TMDB API 
 
 ⸻
 
