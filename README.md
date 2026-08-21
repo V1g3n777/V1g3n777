@@ -23,11 +23,11 @@ I have completed my Full-Stack Web Development training and continue to develop 
 
 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,js,npm,vite,react,redux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,npm,vite,react,redux,ts)](https://skillicons.dev)
 
 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,nodejs,express,mongodb,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,npm)](https://skillicons.dev)
 
 ⸻
 
