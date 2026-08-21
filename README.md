@@ -66,7 +66,9 @@ My goal is to grow as a Full-Stack Developer, work on real-world applications an
 Feel free to connect with me through GitHub or my professional profiles.
 
 Linkedin : https://www.linkedin.com/in/vigen-avagyan-b1247538b/
+
 Codewars : https://www.codewars.com/users/V1g3n777
+
 Mail : vigen.avag@icloud.com
 
 ⸻
